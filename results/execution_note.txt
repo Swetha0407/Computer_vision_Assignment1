@@ -1,0 +1,1 @@
+Project executed successfully in the artifact environment. Runtime values in CSVs are local measurements and will vary when rerun. Synthetic data and proxy simulations are explicitly disclosed in README and report.

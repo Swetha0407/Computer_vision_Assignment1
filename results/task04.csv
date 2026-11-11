@@ -1,0 +1,91 @@
+sample,method,object_count,runtime_ms,diagonal_only_pairs_join
+tray_01,4-connectivity,21,0.1945770000020275,False
+tray_01,8-connectivity,21,0.1708919999146019,True
+tray_01,distance-based grouping,21,0.32443800000692136,True
+tray_02,4-connectivity,21,0.16386199990847672,False
+tray_02,8-connectivity,21,0.14476299998023023,True
+tray_02,distance-based grouping,21,0.24178600006052875,True
+tray_03,4-connectivity,20,0.21646899995175772,False
+tray_03,8-connectivity,20,0.13460900004247378,True
+tray_03,distance-based grouping,20,0.23376400008601195,True
+tray_04,4-connectivity,20,0.18432100000609353,False
+tray_04,8-connectivity,20,0.13959600005364337,True
+tray_04,distance-based grouping,20,0.19886299992322165,True
+tray_05,4-connectivity,19,0.12351199984550476,False
+tray_05,8-connectivity,19,0.11214599999220809,True
+tray_05,distance-based grouping,19,0.23458600003323227,True
+tray_06,4-connectivity,20,0.12252999999873282,False
+tray_06,8-connectivity,20,0.10104899979523907,True
+tray_06,distance-based grouping,20,0.21018899997216067,True
+tray_07,4-connectivity,22,0.1229810000040743,False
+tray_07,8-connectivity,22,0.1344290001270565,True
+tray_07,distance-based grouping,22,0.28409800006556907,True
+tray_08,4-connectivity,22,0.19409599985920067,False
+tray_08,8-connectivity,22,0.12139900013607985,True
+tray_08,distance-based grouping,22,0.21479699989868095,True
+tray_09,4-connectivity,19,0.14335200012283167,False
+tray_09,8-connectivity,19,1.3656030000674946,True
+tray_09,distance-based grouping,19,0.3114189998996153,True
+tray_10,4-connectivity,19,0.19471699988571345,False
+tray_10,8-connectivity,19,0.13406700008999906,True
+tray_10,distance-based grouping,19,0.32693200000721845,True
+tray_11,4-connectivity,21,0.2140960000360792,False
+tray_11,8-connectivity,21,0.14117799992163782,True
+tray_11,distance-based grouping,21,0.24401000018769992,True
+tray_12,4-connectivity,21,0.18828799989023537,False
+tray_12,8-connectivity,21,0.13822300002175325,True
+tray_12,distance-based grouping,21,0.23139099994295975,True
+tray_13,4-connectivity,22,0.16413200000897632,False
+tray_13,8-connectivity,22,0.1792440000372153,True
+tray_13,distance-based grouping,22,0.2582409999831725,True
+tray_14,4-connectivity,20,0.19153300013385888,False
+tray_14,8-connectivity,20,0.13390699996307376,True
+tray_14,distance-based grouping,20,0.2736930000537541,True
+tray_15,4-connectivity,22,0.17032100004144013,False
+tray_15,8-connectivity,22,0.1394749999690248,True
+tray_15,distance-based grouping,22,0.28649199998653785,True
+tray_16,4-connectivity,20,0.1248139999461273,False
+tray_16,8-connectivity,20,0.1114239998969424,True
+tray_16,distance-based grouping,20,0.24106499995468766,True
+tray_17,4-connectivity,22,0.12194900000395137,False
+tray_17,8-connectivity,22,0.11699200013026712,True
+tray_17,distance-based grouping,22,0.20429100004548673,True
+tray_18,4-connectivity,20,0.813068000070416,False
+tray_18,8-connectivity,20,0.13639100006912486,True
+tray_18,distance-based grouping,20,0.24644300015097542,True
+tray_19,4-connectivity,19,0.1556700001401623,False
+tray_19,8-connectivity,19,0.12859999992542726,True
+tray_19,distance-based grouping,19,0.262566999936098,True
+tray_20,4-connectivity,19,0.14595500010727847,False
+tray_20,8-connectivity,19,0.141579000001002,True
+tray_20,distance-based grouping,19,0.21780099996249191,True
+tray_21,4-connectivity,20,0.16561400002501614,False
+tray_21,8-connectivity,20,0.13669099985236244,True
+tray_21,distance-based grouping,20,0.20776599990313116,True
+tray_22,4-connectivity,20,0.20810600017284742,False
+tray_22,8-connectivity,20,0.18275999991601566,True
+tray_22,distance-based grouping,20,0.23438600010194932,True
+tray_23,4-connectivity,19,0.15099200004442537,False
+tray_23,8-connectivity,19,0.2361680001286004,True
+tray_23,distance-based grouping,19,0.2901679999922635,True
+tray_24,4-connectivity,21,0.22371999989445612,False
+tray_24,8-connectivity,21,0.14675600004920852,True
+tray_24,distance-based grouping,21,0.22723500001120556,True
+tray_25,4-connectivity,22,0.1590049998867471,False
+tray_25,8-connectivity,22,0.15915499989205273,True
+tray_25,distance-based grouping,22,0.2330229999643052,True
+tray_26,4-connectivity,20,0.15602000007675088,False
+tray_26,8-connectivity,20,0.13949499998489046,True
+tray_26,distance-based grouping,20,0.2603639998142171,True
+tray_27,4-connectivity,22,0.13016200000492972,False
+tray_27,8-connectivity,22,0.12288199991417059,True
+tray_27,distance-based grouping,22,0.19938299988098152,True
+tray_28,4-connectivity,21,0.14898900008120108,False
+tray_28,8-connectivity,21,0.1209380000091187,True
+tray_28,distance-based grouping,21,0.21273300012580876,True
+tray_29,4-connectivity,21,0.2000449999286502,False
+tray_29,8-connectivity,21,0.11576100018828583,True
+tray_29,distance-based grouping,21,0.20301900008234952,True
+tray_30,4-connectivity,21,0.1241429999936372,False
+tray_30,8-connectivity,21,0.5191749999085005,True
+tray_30,distance-based grouping,21,0.24676299995007867,True
